@@ -11,7 +11,7 @@ import (
 	"image"
 	"io"
 
-	"github.com/gen2brain/x264-go/x264c"
+	"github.com/samespace/x264-go/x264c"
 )
 
 // Logging constants.

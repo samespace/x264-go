@@ -8,8 +8,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/gen2brain/x264-go"
 	"github.com/kbinani/screenshot"
+	"github.com/samespace/x264-go"
 )
 
 func main() {
