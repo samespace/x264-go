@@ -1,4 +1,4 @@
-github.com/samespace/x264-go/x264c v0.0.0-20210523192809-78c5ccc9da84 h1:s9CPT9ZCPlLkXadagFlbBgUSlxl7Tx7KtekDQrHhJlM=
-github.com/samespace/x264-go/x264c v0.0.0-20210523192809-78c5ccc9da84/go.mod h1:lshP4xmJNPCHscewcvsemVs62q8J8F0mh+FYBAfVG60=
-github.com/samespace/x264-go/yuv v0.0.0-20210523192809-78c5ccc9da84 h1:YEoFfsFQzLggJdiadUryc9hC1v5vrJx/C4szeKopnn8=
-github.com/samespace/x264-go/yuv v0.0.0-20210523192809-78c5ccc9da84/go.mod h1:xGOE/2fXjxu/ZONrm0EPqKHj/XDc13al1o48I3FQfHA=
+github.com/samespace/x264-go/x264c v0.0.0-20220602123831-15558fdc9e57 h1:yeMiK4nuH8TBRfZvwEHvPSw78AbL854cSqLKtf/e0es=
+github.com/samespace/x264-go/x264c v0.0.0-20220602123831-15558fdc9e57/go.mod h1:pkT0OJ/JWyVoBmk4mlgnQvJnnhRfv+jmy//nZWk3QOM=
+github.com/samespace/x264-go/yuv v0.0.0-20220602123831-15558fdc9e57 h1:yvV8B7B6bbshol8QBS37HUOQbJL473gTV7HoSLsAjrs=
+github.com/samespace/x264-go/yuv v0.0.0-20220602123831-15558fdc9e57/go.mod h1:Y/IFofNRBAagIT1UijGAiwvJCSoZy76//tdhJElLraU=
