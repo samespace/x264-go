@@ -1083,7 +1083,7 @@ static int validate_parameters( x264_t *h, int b_open )
     }
     if( !h->param.i_fps_num || !h->param.i_fps_den )
     {
-        h->param.i_fps_num = 25;
+        h->param.i_fps_num = 1;
         h->param.i_fps_den = 1;
     }
     float fps = (float)h->param.i_fps_num / h->param.i_fps_den;
