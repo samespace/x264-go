@@ -364,7 +364,7 @@ REALIGN_STACK void x264_param_default( x264_param_t *param )
     param->vui.i_transfer  = 2;  /* undef */
     param->vui.i_colmatrix = -1; /* default depends on input */
     param->vui.i_chroma_loc= 0;  /* left center */
-    param->i_fps_num       = 25;
+    param->i_fps_num       = 1;
     param->i_fps_den       = 1;
     param->i_level_idc     = -1;
     param->i_slice_max_size = 0;
